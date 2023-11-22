@@ -1,5 +1,6 @@
-print('hello world')
-print('hello world')
-print('uwu')
-print('meow')
-print('nnnnnnnnnnn')
+def main():
+    print('meeeeeow')
+
+
+if __name__ == '__main__':
+    main()
